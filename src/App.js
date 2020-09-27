@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
        
         <p>
-          Welcome to my <code>ReactJs</code> first testChase. <img src={lego} alt="logo" />
+        <img src={lego} alt="logo" />Welcome to my <code>ReactJs</code> first testChase. 
         </p>
                 Learn React -- .：Happy Coding Day :. --
       </header>
